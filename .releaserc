@@ -62,7 +62,7 @@
         [
             "semantic-release-factorio",
             {
-                "skip_validation": true
+                "skipInfoValidation": true
             }
         ],
         [
