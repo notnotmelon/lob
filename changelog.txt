@@ -1,0 +1,64 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 9.2.2020
+  Features:
+    - Fixed copy pasting thrower inserters
+    - Fixed crashes
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 9.2.2020
+  Features:
+    - Fixed fish duplication
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 9.2.2020
+  Features:
+    - Fixed a locale issue
+    - Fixed that snapping code did not work for things right next to the inserter
+    - You can now throw raw fish into rivers. Peta approves
+    - Improve UPS
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 9.1.2020
+  Features:
+    - You can now render shadows under flying items
+    - Fixed an issue with the snapping code
+    - Increased max range to 20
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 9.1.2020
+  Features:
+    - Inserters will now snap the the furthest entity that they can insert into
+    - Added support for Renai Transportation
+    - Improved UPS
+    - Changed the minimum distance to one
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 8.31.2020
+  Features:
+    - Throwing into space from space exploration will now void items
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 8.31.2020
+  Features:
+    - Fixed a dupe
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 8.31.2020
+  Features:
+    - Increased grab speed of the thrower
+    - Improved thrower animation
+    - Fixed a crash
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 8.30.2020
+  Features:
+    - You can't copy paste from a thrower inserter to a normal inserter anymore
+    - Added a setting to make the thrower inserters a stack inserter
+    - Thrower inserters will not go ultra speed mode when you use a mod to change the dropoff point
+    - Improved the sprite in HR
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 8.22.2020
+  Features:
+    - Initial release

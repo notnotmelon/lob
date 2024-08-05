@@ -1,12 +1,13 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "name": "lob",
+  "version": "1.1.7",
+  "title": "Lob",
+  "author": "notnotmelon",
+  "homepage": "https://github.com/notnotmelon/lob",
+  "description": "Adds 2x1 thrower inserters that can launch items through the air. A UPS-optimized fork of Renai Transportation.",
   "factorio_version": "1.1",
   "dependencies": [
-    "base"
+    "base",
+    "?RenaiTransportation"
   ]
 }
